@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-07-10_0941",
+    "name": "wojciechit",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -31,6 +31,30 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.12.4",
     "siteFonts": [],
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": {
+      "customDialogSelector": false,
+      "colorText": "#424a4d",
+      "colorBg": "#eaeff1",
+      "colorButton": "",
+      "colorLink": "#424a4d",
+      "underlineLink": true,
+      "opacity": "99",
+      "opacityOverlay": "80",
+      "text": "Używamy plików Cookies. Aby zmienić ustawienia prywatności sprawdź ustawienia swojej przeglądarki.",
+      "textButton": "Zamknij ten komunikat"
+    },
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
+    "favicon": false,
+    "imageResize": false,
+    "robotsSwitcher": false,
     "uniqCompNum": 1,
     "versionPublish": "4.12.4"
   },
