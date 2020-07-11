@@ -58,7 +58,7 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/242e97da-4b55-490d-b29c-ecf024d3881d.jpeg",
     "imageResize": false,
     "robotsSwitcher": false,
     "uniqCompNum": 1,
